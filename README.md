@@ -1,9 +1,9 @@
-# Basic Project
-## Basic Project Structure
+# Lollipops Project
+# Lollipops Concepts Structure
 
 *Default Structure for A Basic Project*
 
-**Java 7**
+**Java 8**
 
 * Maven
 * JUnit 4
